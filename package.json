@@ -1,0 +1,17 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "description": "A simple number guessing game using TypeScript and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/game.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.5.4",
+    "ts-node": "^10.4.0",
+    "@types/node": "^16.11.7"
+  }
+}
